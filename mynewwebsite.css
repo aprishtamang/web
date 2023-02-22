@@ -1,0 +1,95 @@
+body {
+    background-image: url(./ppl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.background-image:hover{
+    background-color: blue;
+}
+
+.nature{
+    background-image: url(./1nature.jpg); 
+    border: 5px solid;
+    width: 200px;
+    height: 250px; 
+    border-color: black;
+    margin: 30px;
+    border-radius: 30px;
+}
+.nature-head{
+    text-align: center;
+   
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    
+}
+.nature2{
+    background-image: url(./2nature.jpg); 
+    border: 5px solid;
+    width: 200px;
+    height: 250px; 
+    border-color: black;
+    margin: 30px;
+    border-radius: 30px;
+}
+.nature2-head{
+    text-align: center;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    
+}
+.nature3{
+    background-image: url(./3nature.jpg); 
+    border: 5px solid;
+    width: 200px;
+    height: 250px; 
+    border-color: black;
+    margin: 30px;
+    border-radius: 30px;
+}
+.nature3-head{
+    text-align: center;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    
+    
+}
+.nature4{
+    background-image: url(./4nature.jpg);
+    border: 5px solid;
+    width: 200px;
+    height: 250px;
+    border-color: black;
+    margin: 30px;
+    border-radius: 30px;
+}
+.nature4-head{
+    text-align: center;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.nature5{
+    background-image: url(./5nature.jpg);
+    border: 5px solid;
+    width: 200px;
+    height: 250px;
+    border-color:black;
+    margin: 30px;
+    border-radius: 30px;
+}
+.nature5-head{
+    text-align: center;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.login-bottom:hover{
+color:blue   
+}

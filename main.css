@@ -1,0 +1,64 @@
+.card{
+    border: 5px solid;
+    height: 250px;
+    border-radius: 30px;
+    margin: 0 5px;
+    width: 200px;
+    border-color:blue;
+}
+.card-head{
+    text-align: center;
+    border: 5px;
+    background-color: blue;
+    margin: 0;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding-top: 15px;
+}
+.card-head-title{
+    font-family: serif;
+    -webkit-text-fill-color: blue;
+
+}
+.card2{
+    border: 5px solid;
+    height: 250px;
+    border-radius: 30px;
+    margin:0 5px;
+    width: 200px;
+    border-color: brown;
+}
+.card2-head{
+    text-align: center;
+    border: 5px;
+    background-color:brown;
+    margin: 0;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding-top: 15px;
+}
+.card2-head-title{
+    font-family: serif;
+    -webkit-text-fill-color:brown;
+}
+.card3{
+    border: 5px solid;
+    height: 250px;
+    border-radius: 30px;
+    margin:0 5px;
+    width: 200px;
+    border-color:pink;
+}
+.card3-head{
+    text-align: center;
+    border: 5px;
+    background-color:pink;
+    margin: 0;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding-top: 15px;
+}
+.card3-head-title{
+    font-family: serif;
+    -webkit-text-fill-color:pink;
+}

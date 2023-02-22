@@ -1,0 +1,12 @@
+.division-parent{
+    background-color: blue;
+    padding: left 20px;
+}
+.division-parent-child{
+    background-color: aqua;
+    padding-top: 20;
+}
+.division-parent-multi-child{
+    background-color: brown;
+    padding-bottom: 20;
+}

@@ -1,0 +1,16 @@
+
+.loginform{
+    text-align: center;
+    font-size: 24px;
+  
+}
+.box{
+    padding: 100px 200px;
+    border-style: dotted;
+}
+.submit:hover{
+    color: blue;
+}
+body{
+    background-color: rgb(72, 69, 69);
+}
